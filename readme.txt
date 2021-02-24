@@ -5,4 +5,4 @@ anda dapat melihat dokumentasi di www.dok.com
 silahkan fork repo ini untuk berkontribusi
 anda setuju dengan perjanjian lisensi ini kami dapat mengubah lisensi ini dan akan memberitahu anda
 anda bertanggung jawab secara penuh terhada kontribusi yang anda berikan
-
+kami dapat mengabaikan full request anda jika dirasa kontribusi anda mengandung pelanggaran
