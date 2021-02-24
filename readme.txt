@@ -4,4 +4,3 @@ lisensi ini terbuka untuk umum namun kami tidak menggaransi dapat berjalan sesua
 anda dapat melihat dokumentasi di www.dok.com
 silahkan fork repo ini untuk berkontribusi
 anda setuju dengan perjanjian lisensi ini kami dapat mengubah lisensi ini dan akan memberitahu anda
-
