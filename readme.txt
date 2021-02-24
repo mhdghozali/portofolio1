@@ -7,3 +7,4 @@ anda setuju dengan perjanjian lisensi ini kami dapat mengubah lisensi ini dan ak
 anda bertanggung jawab secara penuh terhada kontribusi yang anda berikan
 kami dapat mengabaikan full request anda jika dirasa kontribusi anda mengandung pelanggaran
 atau kontrribusi anda terindikasi plagiat
+tindakan hukum akibat dari plagiatisme sepenuhnya tanggung jawab kontributor
