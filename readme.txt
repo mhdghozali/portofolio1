@@ -9,3 +9,4 @@ kami dapat mengabaikan full request anda jika dirasa kontribusi anda mengandung 
 atau kontrribusi anda terindikasi plagiat
 tindakan hukum akibat dari plagiatisme sepenuhnya tanggung jawab kontributor
 kami tunduk pada undang2 negara republik indonesia
+sukak ati
